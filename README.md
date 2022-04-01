@@ -1,8 +1,3 @@
----
-description: What you should know about this repository.
-author: catbutler
-layout: default
----
 
 # Read me
 
