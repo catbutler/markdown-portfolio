@@ -1,1 +1,11 @@
-This repository is a starter portfolio that you can use to learn a little bit about communication using Markdown.
+---
+description: What you should know about this repository.
+author: catbutler
+layout: default
+---
+
+# Read me
+
+This is where I tell you why this page exists. Or would.
+
+## It's a learning thing
